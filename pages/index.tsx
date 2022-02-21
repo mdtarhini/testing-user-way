@@ -13,7 +13,7 @@ const HomePage: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Home />
-      <Script id="user-way">{`(function(d){var s = d.createElement("script");s.setAttribute("data-account", "lHPKorqUyp");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)`}</Script>
+      <Script id="user-way">{`(function(d){var s = d.createElement("script");s.setAttribute("data-account", "zgyErMLytm");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)`}</Script>
     </div>
   );
 };
